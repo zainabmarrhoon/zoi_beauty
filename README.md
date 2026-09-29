@@ -153,20 +153,6 @@ This project allowed me to apply concepts such as **CRUD operations, authenticat
 
 ---
 
-## ERD
-
-[ZOI ERD](https://github.com/zainab-16-marker/project2/blob/master/imges/erd.jpg)
-
-[View ERD Image](https://github.com/zainab-16-marker/project2/raw/master/imges/erd.jpg)
-
----
-
-## Wire Frame
-
-[View Wire Frame for ZOI](https://excalidraw.com/#json=J9HWwXUCUyiYFJvlQ5pey,dTf152lkRGVJnJ4RgPYgEw)
-
----
-
 ## Attributions
 
 This project uses open-source libraries and technologies including **Node.js, Express.js, MongoDB, Mongoose, EJS, Express Session, Method Override, and Morgan**.
