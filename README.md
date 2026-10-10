@@ -144,7 +144,7 @@ This project allowed me to apply concepts such as **CRUD operations, authenticat
 
 ### Deployed App
 
-[View the deployed ZOI App](DEPLOYED_APP_LINK)
+[View the deployed ZOI App]( https://project2-6aag.onrender.com)
 
 ### Planning Materials
 
